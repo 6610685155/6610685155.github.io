@@ -34,7 +34,7 @@ li {
     padding: 10px;
 }
 
-.itemtitle {
+.itemheading {
     grid-column-start: 2;
     grid-column-end: 6;
 }
