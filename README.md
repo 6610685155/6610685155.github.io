@@ -11,3 +11,6 @@ This is my hobbies :
 - Playing video games
 - Read novel
 - Watching something funny
+
+## My image
+![This is me](image/Me.jpg "Owner image")
