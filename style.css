@@ -38,3 +38,10 @@ li {
     grid-column-start: 2;
     grid-column-end: 6;
 }
+
+.itemimg {
+    grid-column-start: 2;
+    grid-column-end: 4;
+    grid-row-start: 2;
+    grid-row-end: 4;
+}
